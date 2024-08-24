@@ -47,7 +47,11 @@ To use ```Pass Tangle``` just run **```pass_tangle.pyw```**
 
 You will we presented with this window, which always stays on top
 
+<br>
+
 ![](https://github.com/sbartoszuk/pass-tangle/blob/main/readme_images/1.png?raw=true)
+
+<br>
 
 - Drag the window by grabbing it by the black part
 - Click the lock to show or hide the ```main panel```
