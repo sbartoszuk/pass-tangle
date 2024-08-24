@@ -47,12 +47,12 @@ To use ```Pass Tangle``` just run **```pass_tangle.pyw```**
 
 You will we presented with this window, which always stays on top
 
-![]()
+![](https://github.com/sbartoszuk/pass-tangle/blob/main/read_me_images/1.png?raw=true)
 
 - Drag the window by grabbing it by the black part
 - Click the lock to show or hide the ```main panel```
 
-![]()
+![](https://github.com/sbartoszuk/pass-tangle/blob/main/read_me_images/2.png?raw=true)
 
 In this panel you will see current focused program / browser tab, and some buttons
 
