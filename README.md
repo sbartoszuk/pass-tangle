@@ -1,6 +1,8 @@
 # Pass Tangle
 ```Pass Tangle``` is password managing, ```GUI``` software. It keeps your passwords safe with ```AES``` encrypting in user-friendly form factor, and retro styled interface.
 
+[Read This Before Use](#data-integrity-and-security)
+
 <br>
 
 ```markdown
@@ -128,3 +130,21 @@ Copy **```data```** folder with all it's contents to a safe place (recomended to
 
 ### Transfer to another device
 Transfer the **```data```** floder with all it's contents to another device with ```Pass Tangle``` in a folder scheme presented above (in pass_tangle folder)
+
+# Data Integrity and Security
+As mentioned, this software works 100% offline, that means all your data is stored localy on your device.
+
+We recommend to [copy credentials data](#transfer-or-copy-credentials-data) onto another device / drive, to prevent loosing all your credentials in case of loosing or breaking your device.
+
+<br>
+
+> You can copy it on ```USB drive```, all data is encrypted so it always stays safe on there.
+
+> Make sure that you copy data to ```USB``` with no encryption key on it
+
+## ```Warning```
+**Do not loose your ```USB key```!**
+
+**Credentials data is encrypted, and without the key there is no way to decrypt it!**
+
+**We recommend to [```make multiple USB keys```](#creating-more-usb-keys)**
